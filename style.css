@@ -42,5 +42,8 @@ body{
 }
 
 .nav-menu ul{
-        
+        display: flex;
+}
+.nav-menu ul li{
+        list-style-type: none;
 }
