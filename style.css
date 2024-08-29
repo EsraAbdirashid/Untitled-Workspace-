@@ -9,7 +9,8 @@
 }
 
 body{
-  background:  url("images/background.webp");
+  background:  url("images/back2.webp");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
