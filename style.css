@@ -101,3 +101,10 @@ body{
         z-index: 2;
 }
 
+.register-container{
+        width: 500px;
+        display: flex;
+        flex-direction: column;
+        transition: .5s ease-in-out;
+}
+
