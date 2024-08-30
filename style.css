@@ -112,6 +112,14 @@ body{
         color: #fff;
       font-size: small;
       padding: 10px 0;
+      display: flex;
+      justify-content: center;
+}
+
+.top span a{
+        font-weight: 500;
+        color: #ffffff;
+        margin-left: 5px;
 }
 
 
