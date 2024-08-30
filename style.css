@@ -108,3 +108,8 @@ body{
         transition: .5s ease-in-out;
 }
 
+.top span{
+        color: #fff;
+        margin-left: 5px;
+}
+
