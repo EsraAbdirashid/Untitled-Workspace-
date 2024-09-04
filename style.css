@@ -179,6 +179,15 @@ header{
         box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
 }
 
+.two-col{
+        display: flex;
+        justify-content: space-between;
+        color: #fff;
+        font-size: small;
+        margin-top: 10px;
+}
+
 .two-col .one{
-        
+        display: flex;
+        gap: 5px;
 }
