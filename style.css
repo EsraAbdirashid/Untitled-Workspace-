@@ -141,5 +141,9 @@ two-forms{
         width: 100%;
         padding: 0 10px 0 45px;
         border: none;
+        border-radius: 30px;
+        outline: none;
+        transition: .2s ease;
+        
 }
 
