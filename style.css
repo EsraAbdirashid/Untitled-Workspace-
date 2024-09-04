@@ -150,3 +150,7 @@ two-forms{
 .input-field:hover , .input-field:focus{
         background: rgba(255, 255, 255, 0.25);
 }
+
+::-webkit-input-placeholder{
+        color: #fff;
+}
