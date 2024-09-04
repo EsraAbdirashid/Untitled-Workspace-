@@ -172,5 +172,9 @@ header{
         outline: none;
         background: rgba(255, 255, 255, 0.7);
         cursor: pointer;
-        transition: 3s ease-in-out;
+        transition: .3s ease-in-out;
+}
+.submit:hover{
+        background: rgba(255, 255, 255, 0.5);
+        box-shadow: 1px 5px ;
 }
