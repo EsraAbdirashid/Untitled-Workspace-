@@ -129,7 +129,7 @@ header{
         padding: 10px 0 30px 0;
 }
 
-two-forms{
+.two-forms{
         display: flex;
         gap: 10px;
 }
@@ -160,3 +160,4 @@ two-forms{
         left: 17px;
         color: #fff;
 }
+
