@@ -97,7 +97,7 @@ body{
         justify-content: center;
         width: 512px;
         height: 420px;
-        overflow: hidden;
+        border: 1px solid #fff;
         z-index: 2;
 }
 
